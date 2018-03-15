@@ -1,0 +1,43 @@
+Name: Wei-Nung Chao
+USC ID: 1720632986
+News site crawled: https://www.c-span.org/
+Fetch Statistics 
+================
+# fetches attempted: 19993
+# fetches succeeded: 13730
+# fetches aborded or failed: 6263
+
+
+Outgoing URLs: 
+============== 
+Total URLs extracted: 526405
+# unique URLs extracted: 114987
+# unique URLs within News Site: 55522
+# unique URLs outside News Site: 59465
+
+
+Status Codes: 
+============= 
+200: 13730
+301: 4666
+302: 886
+307: 689
+404: 17
+410: 5
+
+
+File Sizes: 
+=========== 
+< 1KB: 14
+1KB ~ <10KB: 7565
+10KB ~ <100KB: 5533
+100KB ~ <1MB: 266
+>= 1MB: 4
+
+
+Content Types:============== 
+image/png: 185
+text/html: 5592
+image/jpeg: 7536
+application/pdf: 64
+image/gif: 5
